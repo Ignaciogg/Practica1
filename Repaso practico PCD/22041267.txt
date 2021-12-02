@@ -1,0 +1,5 @@
+Escribe n:  20
+Escribe m:  20
+
+
+Matriz  A y B se han multiplicado con exito en SECUENCIAL ha tardado  0.004014492034912109  y en PARALELO  0.643129825592041
